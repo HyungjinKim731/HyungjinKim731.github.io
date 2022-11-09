@@ -45,7 +45,7 @@ authors:
   johndoe:
     name: John Doe
     bio: A Man who travels the world eating noodles
-    external-image: false
+    external-image: True
     picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
@@ -69,7 +69,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+Research: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
