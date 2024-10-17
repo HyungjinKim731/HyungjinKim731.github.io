@@ -9,6 +9,7 @@ Hyungjin Kim (김형진) is a post-doctoral researcher in the Department of Indu
 
 Hyungjin received a B.S. and Ph.D. in Industrial Engineering from Hanyang University. Hyungjin's research interest focuses on applied statistics, machine learning, and applications in semiconductor manufacturing. Hyungjin received the Best Patent Award (2nd place) from SK Hynix in 2019.</p>
 
+<a href="{{ site.baseurl }}/assets/images/CV_20241017.pdf" target="_blank">Download my Resume</a>
 
 <!--
 <h2>Skills</h2>
