@@ -5,9 +5,9 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-Hyungjin Kim (김형진) is a Ph.D. student in the department of industrial engineering at Hanyang University.
+Hyungjin Kim (김형진) is a post-doctoral researcher in the Department of Industrial and Systems Engineering at Georgia Institute of Technology.
 
-Hyungjin received a B.S. in Industrial Engineering from Hanyang University. Hyungjin's research interest focuses on applied statistics, machine learning, and applications in semiconductor manufacturing. Hyungjin received the Best Patent Award (2nd place) from SK Hynix in 2019.</p>
+Hyungjin received a B.S. and Ph.D. in Industrial Engineering from Hanyang University. Hyungjin's research interest focuses on applied statistics, machine learning, and applications in semiconductor manufacturing. Hyungjin received the Best Patent Award (2nd place) from SK Hynix in 2019.</p>
 
 
 
