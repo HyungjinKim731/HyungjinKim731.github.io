@@ -34,11 +34,12 @@ permalink: /:title/
 #   categories: [blog, Research] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: profile.php?id=100003273959017
+# facebook: profile.php?id=100003273959017
 instagram: jins731
 linkedin: jins731@gmail.com
 github: HyungjinKim731
-email: jins731@gmail.com/hkim3261@gatech.edu
+email: jins731@gmail.com
+email2: hkim3261@gatech.edu
 
 authors:
   johndoe:
